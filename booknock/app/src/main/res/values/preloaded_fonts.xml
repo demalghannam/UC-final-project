@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/abel</item>
+        <item>@font/alata</item>
+        <item>@font/alike</item>
+        <item>@font/alike_angular</item>
+        <item>@font/almarai_light</item>
+        <item>@font/amethysta</item>
+        <item>@font/arapey</item>
+        <item>@font/arsenal</item>
+        <item>@font/autour_one</item>
+        <item>@font/barrio</item>
+        <item>@font/buenard</item>
+    </array>
+</resources>
